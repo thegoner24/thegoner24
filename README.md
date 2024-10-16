@@ -1,18 +1,30 @@
 # 👋 Hello, I'm Guntur Wirayuda!
 
-![Profile GIF](https://i.redd.it/1d11s820dgm91.gif)
 
-I'm a passionate developer constantly learning and growing in the field of technology. Welcome to my GitHub profile! 🚀
+<div id="header" align="center">
+  <img src="https://i.redd.it/1d11s820dgm91.gif" width="100"/>
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/guntur-wirayuda) 
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thegoner__)
+  <div id="badges">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-stevan-lapandio/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://facebook.com/https://www.facebook.com/michael.limabelas">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  </div>
 
-## 🎯 Hobbies:
-- 🏍️ Riding motorcycles
-- 📺 Watching anime
-- 📷 Photography
-- 🎥 Videography
+  <img src="https://komarev.com/ghpvc/?username=kyomel&style=flat-square&color=blue" alt=""/>
+  <h1>
+    {{ Hello There... }}
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+
+
+<div align="center">I'm a passionate developer constantly learning and growing in the field of technology. Welcome to my GitHub profile! 🚀
+</div>
+
 
 ## 🛠️ Technologies & Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -23,11 +35,6 @@ I'm a passionate developer constantly learning and growing in the field of techn
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FF1B2D?style=flat&logo=davinci-resolve&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ## 💻 Operating System:
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
@@ -40,7 +47,7 @@ I'm a passionate developer constantly learning and growing in the field of techn
 
 ## 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thegoner24&show_icons=true&theme=radical)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoner24&layout=compact&theme=radical) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoner24&layout=compact&theme=radical)
 
 ## 💬 Favorite Quote:
 >_"Hujan tidak lagi berarti untuk pohon yang sudah mati!"_
