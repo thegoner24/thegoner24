@@ -23,6 +23,11 @@ I'm a passionate developer constantly learning and growing in the field of techn
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FF1B2D?style=flat&logo=davinci-resolve&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ## 💻 Operating System:
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
