@@ -62,8 +62,11 @@
 - [Achievement 3] (e.g., Open-source contributor) -->
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thegoner24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoner24&layout=compact&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thegoner24&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoner24&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thegoner24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💬 Favorite Quote:
 >_"Hujan tidak lagi berarti untuk pohon yang sudah mati!"_
