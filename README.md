@@ -55,12 +55,6 @@
 
 
 
-
-<!-- ## 🏆 Achievements:
-- [Achievement 1] (e.g., Completed 100+ coding challenges on Codewars)
-- [Achievement 2] (e.g., Built 10+ full-stack web applications)
-- [Achievement 3] (e.g., Open-source contributor) -->
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thegoner24&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoner24&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
