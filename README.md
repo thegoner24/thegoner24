@@ -5,10 +5,10 @@
   <img src="https://i.redd.it/1d11s820dgm91.gif" width="100"/>
 
   <div id="badges">
-  <a href="([https://linkedin.com/in/https://www.linkedin.com/in/michael-stevan-lapandio/](https://www.linkedin.com/in/guntur-wirayuda/)">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-stevan-lapandio/](https://www.linkedin.com/in/guntur-wirayuda/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="([https://facebook.com/https://www.facebook.com/michael.limabelas](https://www.instagram.com/thegoner__/)">
+  <a href="https://facebook.com/https://www.facebook.com/michael.limabelas](https://www.instagram.com/thegoner__/">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   </div>
